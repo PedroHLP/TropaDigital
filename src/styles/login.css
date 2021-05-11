@@ -1,0 +1,48 @@
+body{
+    background-color: #FF6C22;
+}
+.container{
+    width: 800px;
+    height: 500px;
+    background: #fff;
+    border-radius: 5px;
+    margin: auto;
+    display: flex;
+}
+#box-login{
+    width: 55%;
+}
+#logo-fit{
+    width: 259px;
+}
+#text-fit-painel{
+    color: #FF6C22;
+}
+
+#laptop-fit{
+    height: 70%;
+    margin-left: -20%;
+    
+    
+}
+#box-laptop{
+    background-image: url(../img/fundo.png);
+    width: 45%;
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-end;
+}
+#text-fit{
+    margin-left: 10%;
+    margin-top: 10%;
+    margin-bottom: 5%;
+    font-size: 20px;
+    font-weight: bold;
+    font-family: 'Advent Pro', sans-serif;
+    color: #646464;
+}
+
+#logo{
+    margin-left: 10%;
+    margin-top: 10%;
+}

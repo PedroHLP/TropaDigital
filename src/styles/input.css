@@ -1,0 +1,10 @@
+#input{
+    width: 30%;
+    height: 30px;
+    border: 1px solid #dadada;
+    border-radius: 10px;
+    margin-left: 10%;
+    margin-bottom: 2%;
+    font-family: 'Advent Pro', sans-serif;
+    padding: 10px;
+}
