@@ -1,5 +1,6 @@
 #left-content{
     width: 20%;
+    background-color: #FFFFFF;
 }
 #container{
     width: 100%;
@@ -45,6 +46,9 @@
         width: 134%;
         margin-left: 8%;
         margin-top: 28%;
+    }
+    #left-content{
+        background-color: #E5E5E5;
     }
     #user{
         display: none;

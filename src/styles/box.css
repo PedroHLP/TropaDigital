@@ -1,15 +1,17 @@
 .box-white{
-    width: 97%;
+    width: 84%;
     height: 48px;
     margin-left: 16%;
     margin-top: 39px;
-    background-color: #FFF;
+    background-color: #e5e5e5;
     display: flex;
     justify-content: end;
     align-items: center;
     border-radius: 46px 0px 0px 46px;
-    font-family: 'Advent Pro', sans-serif;    
-    border-color: #F3F3F3!important;
+    font-family: 'Advent Pro', sans-serif;
+    border-color: #e5e5e5!important;
+    border-bottom: 0px solid;
+    border-right: 0px;
     font-size: 18px;
     font-weight: bold;
 }
@@ -18,7 +20,7 @@
     margin-right: 2%;
 }
 .box-green{
-    width: 90%;
+    width: 78%;
     height: 48px;
     margin-left: 16%;
     margin-top: 10px;
