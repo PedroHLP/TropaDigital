@@ -10,6 +10,14 @@
     display: flex;
     background-color: #E5E5E5;
 }
+#user{
+    font-size: 20px;
+    font-family: 'Advent Pro';
+    font-weight: bold;
+    color: #646464;
+    margin-left: 40%;
+    margin-top: 6%;
+}
 #right-content{
     width: 80%;
     display: flex;
@@ -37,9 +45,6 @@
         width: 134%;
         margin-left: 8%;
         margin-top: 28%;
-    }
-    #left-content{
-        display: ;
     }
     .box-white {
         width: 200px;
