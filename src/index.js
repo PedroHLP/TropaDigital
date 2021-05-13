@@ -3,6 +3,7 @@ import ReactDOM from 'react-dom';
 import App from './App';
 import { BrowserRouter as Router, Route, Switch } from 'react-router-dom';
 import Painel from './Painel';
+import './styles/index.css';
 
 
 
