@@ -73,7 +73,7 @@ const Login = () => {
            
             <div id="box-login">
                 <div id="logo">
-                    <img id="logo-fit" src={Logo}></img>
+                    <img id="logo-fit-login" src={Logo}></img>
                 </div>
                 <div id="text-fit">
                 Bem Vindo Ao <span id="text-fit-painel">Painel</span>

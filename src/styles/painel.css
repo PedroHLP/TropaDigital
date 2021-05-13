@@ -17,3 +17,57 @@
     justify-content: space-around;
     flex-wrap: wrap;
 }
+#logo-fit{
+    width: 259px;
+    margin-left: 8%;
+    margin-top: 15%;
+}
+/* Mobile */
+@media screen and (max-width:576px) {
+    #right-content {
+        width: 70%;
+        display: flex;
+        margin-left: 10%;
+        flex-direction: row;
+        justify-content: space-around;
+        flex-wrap: wrap;
+    }
+
+    #logo-fit {
+        width: 134%;
+        margin-left: 8%;
+        margin-top: 28%;
+    }
+    .box-white {
+        width: 200px;
+        height: 48px;
+        margin-left: 16%;
+        margin-top: 39px;
+        background-color: #FFF;
+        display: flex;
+        justify-content: end;
+        align-items: center;
+        border-radius: 46px 0px 0px 46px;
+        font-family: 'Advent Pro', sans-serif;
+        border-color: #F3F3F3!important;
+        font-size: 18px;
+        font-weight: bold;
+    }
+    .box-green {
+        width: 91px;
+        height: 48px;
+        margin-left: 16%;
+        margin-top: 10px;
+        background-color: #2EAFB2;
+        display: flex;
+        justify-content: end;
+        align-items: center;
+        border-radius: 10px;
+        color: #F3F3F3;
+        font-family: 'Advent Pro', sans-serif;
+        border-color: #2EAFB2!important;
+        font-size: 18px;
+    }
+    
+}
+/* fim mobile */

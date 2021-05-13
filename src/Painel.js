@@ -13,6 +13,7 @@ function Painel() {
             <img id="logo-fit" src={Logo}></img>
             <Box />
         </div>
+        
         <div id="right-content">
             <Card />
             <Card />
